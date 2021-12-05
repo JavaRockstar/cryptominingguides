@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://getdoks.org/">
+  <a href="https://ergobasics.netlify.app/">
     <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
   </a>
 </p>
