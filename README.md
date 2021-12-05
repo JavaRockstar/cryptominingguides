@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
+  Ergo is a fair launch cryptocurrency similar to Bitcoin. Ergo is based on Proof of work alogorythm.
 </p>
 
 <p align="center">
