@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Modern Documentation Theme
+  Mining Guides
 </h3>
 
 <p align="center">
