@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+description: "Cryptocurrency mining is the process of validating a cryptocurrency transactions that are recorded on a distributed public ledger. Miners maintain and secure blockchains and in return are rewarded in the form of block rewards."
 lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
